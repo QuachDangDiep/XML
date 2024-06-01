@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file.css" type="text/css"?>
+<Shop>
+    <Local>Bán Quần Với Áo</Local>
+    <Skin>Quần áo</Skin>
+    <anhao>
+        <anh/>
+    </anhao>
+    <anh/>
+    <giá>5000$</giá>
+</Shop>

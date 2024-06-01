@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bookstore.xsl" type="text/xsl"?>
+<pusblisher>
+    <book>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <price>1000</price>
+        <year>2023</year>
+    </book>
+    <book>
+        <title>The Pragmatic Progarmmer</title>
+        <author>Andrew Hunt, David Thomas</author>
+        <price>1200</price>
+        <year>1999</year>
+    </book>
+    <book>
+        <title>Design Patterns</title>
+        <author>Erich Gamma, Richard Helm, Ralph Johnson, John V</author>
+        <price>15000</price>
+        <year>1994</year>
+    </book>
+</pusblisher>
